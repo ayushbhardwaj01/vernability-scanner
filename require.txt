@@ -1,0 +1,12 @@
+apt install python3-pip
+python3 -m venv venv
+source venv/bin/activate
+pip install requests
+pip install fpdf
+pip install -r requirements.txt
+pip install dnsdumpster
+sudo apt install nmap
+pip install scapy
+
+
+
